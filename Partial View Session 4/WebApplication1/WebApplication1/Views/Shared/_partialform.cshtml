@@ -1,0 +1,39 @@
+﻿<h1>Form</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.Label("Name: ") @Html.TextBox("Name", "", new { @class = "form-control", placeholder = "Enter Your Name" });
+    @Html.Label("Father Name ") @Html.TextBox("FName", "", "", new { @class = "form-control", placeholder = "Enter Father's Name" });
+
+    <br />
+    @Html.Label("Gender: ")
+    <br />
+    <span>
+        @Html.Label("Male")
+        @Html.RadioButton("Male","Male",true)
+    </span>
+    <span style="margin-left:5px;">
+        @Html.Label("Female")
+        @Html.RadioButton("Female", "Female")
+    </span>
+    <br />
+    @Html.Label("Select the Source of Transportation", new {@class = "form-control" })
+    <br />
+    <br />
+    <span style="margin-right: 3px;">
+        @Html.Label("BUS")
+        @Html.CheckBox("Bus", true)
+    </span>
+
+
+        @Html.Label("    Bike")
+        @Html.CheckBox("Bike")
+
+    <span style="margin-right: 3px;">
+        @Html.Label("Car")
+        @Html.CheckBox("Car")
+
+        @Html.Label("Helicopter")
+        @Html.CheckBox("Helicopter")
+    </span>
+}

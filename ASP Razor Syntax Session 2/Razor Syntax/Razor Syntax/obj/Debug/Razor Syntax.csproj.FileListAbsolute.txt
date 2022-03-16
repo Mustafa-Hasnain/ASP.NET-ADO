@@ -1,0 +1,46 @@
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\ApplicationInsights.config
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Razor Syntax.dll.config
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Razor Syntax.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Razor Syntax.pdb
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Helpers.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Mvc.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Razor.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Webpages.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Webpages.Razor.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Razor.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Webpages.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Webpages.Razor.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Helpers.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\bin\System.Web.Mvc.xml
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\obj\Debug\Razor Syntax.dll
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\obj\Debug\Razor Syntax.pdb
+C:\Users\Student\Desktop\ASP Razor Syntax\Razor Syntax\Razor Syntax\obj\Debug\Razor Syntax.csprojResolveAssemblyReference.cache

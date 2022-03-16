@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h2>@ViewBag.title</h2>
+<h3>@ViewBag.title2</h3>
+
+@{ 
+    for (int i = 1; i <= 12; i++)
+    {
+        <ul><li>2 * @i = @(i * 2)</li></ul>
+    }
+}
+
+
+<h2>Foreach Loop</h2>
+@{
+    string[] Cars = { "Ferrari", "Bogati", "Chevelot"};
+    foreach (string car in Cars)
+    {
+        <ul><li>@car</li></ul>
+    }
+}
+
+@{
+    string Passed = "Passed";
+    string Failed = "Failed";
+    int marks = 10;
+    if(marks > 10)
+    {
+        <h2>@Passed</h2>
+    }
+    else
+    {
+        <h2>@Failed</h2>
+    }
+}

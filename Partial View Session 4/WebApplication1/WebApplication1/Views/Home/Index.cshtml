@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@{ 
+    Html.RenderPartial("_partialview");
+}
+
+<h3>Another method is to use Html.Partial</h3>
+
+@Html.Partial("_partialview");
+
+@{ 
+    Html.RenderPartial("_partialform");
+}

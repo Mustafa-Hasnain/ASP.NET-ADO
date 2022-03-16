@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h1>HTML ACTIONLINK</h1>
+<h2>It is used as a Anchor Tag in ASP for Navigating Pages</h2>
+@using(Html.BeginForm())
+{
+    <br />
+    @Html.Label("Name: ")
+    <br />
+    @Html.TextBox("Username", "", new { @class = "form-control", placeholder = "Enter Your Name" })
+    <br />
+    @Html.Label("Gender:   ")
+    @Html.Label("Male")
+    @Html.RadioButton("Male", "male")
+    @Html.Label("Female")
+    @Html.RadioButton("Female", "female")
+    <br />
+    @Html.Label("Transportation: ")
+    <br />
+    @Html.Label("Car")
+    @Html.CheckBox("Car")
+    @Html.Label("Bike")
+    @Html.CheckBox("Bike")
+}
